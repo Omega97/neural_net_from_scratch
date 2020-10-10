@@ -1,2 +1,2 @@
 # neural_net_from_scratch
-neural networks from scratch
+feed forwadr neural networks with several training algorithms
